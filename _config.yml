@@ -25,7 +25,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Leo的个人博客
-email: your-email@domain.com
+email: 114514.iamrey@gmail.com
 author: GitHub User
 
 # Copyright setting
@@ -160,11 +160,11 @@ yat:
 #   - about.md
 
 # Page default value
-# defaults:
-#   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
-#     banner: "Your image url"
+ defaults:
+   home:
+     heading: "Leo的个人博客"
+     subheading: "· Click the button in the top right corner to switch languages"
+     banner: ""
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
