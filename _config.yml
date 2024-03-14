@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Leo的个人博客
+title: Leo's personal blog
 email: 114514.iamrey@gmail.com
 author: A GitHub User
 
@@ -163,7 +163,7 @@ yat:
  defaults:
    home:
      heading: "Leo的个人博客"
-     subheading: "Click the button in the top right corner to switch languages"
+     subheading: "· 点击右上角按钮切换语言"
      banner: ""
 
 # Banner default settings
