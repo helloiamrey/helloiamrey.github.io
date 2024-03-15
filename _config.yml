@@ -159,12 +159,12 @@ yat:
 #   - tags.html
 #   - about.md
 
- Page default value
- defaults:
-   home:
-     heading: "Leo的个人博客"
-     subheading: "· Click the button in the top right corner to switch languages"
-     banner: ""
+# Page default value
+defaults:
+  home:
+  heading: "Leo的个人博客"
+  subheading: "· Click the button in the top right corner to switch languages"
+  banner: ""
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
