@@ -164,7 +164,7 @@ defaults:
   home:
   heading: Leo的个人博客
   subheading: · Click the button in the top right corner to switch languages
-  banner: ""
+  banner: "https://pic3.zhimg.com/80/v2-e54cd5b1379ea09779d3863799143222_720w.webp"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
